@@ -1,0 +1,2 @@
+file 'WIN_20251126_09_01_02_Pro.jpg'
+duration 1
